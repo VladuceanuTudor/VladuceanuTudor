@@ -2,9 +2,9 @@
 
 ## Github Stats
 
-<a >
+<a href="" >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VladuceanuTudor&theme=dark" />
 </a>
-<a >
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladuceanuTudor&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
